@@ -6,6 +6,8 @@ permalink: /contributing/
 order: 0
 ---
 
+NOTE: contributing is only allowed for players of the highest degree.
+
 You found a mistake, issue, typo or something missing? Maybe you just thought that something was not well written and you could do better? Maybe it's hacktoberfest? Or you want to share a link to a great blog post? Make a contribution!
 
 Since the course is open source you can fork, edit and send a pull request. If you don't know what forking is or how to make pull request consult the [github guides](https://guides.github.com/activities/hello-world/) or [this](https://www.dataschool.io/how-to-contribute-on-github/) step by step tutorial. It's okay to practice here.
